@@ -1,12 +1,12 @@
 # Bus Passenger Tracker Database
 
-## Description
+## 💡 Description
 
 A MySQL database for bus passengers for the purpose of contact tracing.
 
-## TODO
+## 💡 TODO
 
-- [ ] Revise application domain
+- [x] Revise application domain
 - [ ] Create entity-relationship diagram (ERD)
 - [ ] Create database schema
 
