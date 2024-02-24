@@ -7,7 +7,7 @@ A MySQL database for bus passengers for the purpose of contact tracing.
 ## 💡 TODO
 
 - [x] Revise application domain
-- [ ] Create entity-relationship diagram (ERD)
+- [x] Create entity-relationship diagram (ERD)
 - [ ] Create database schema
 
   - [ ] Normalize
