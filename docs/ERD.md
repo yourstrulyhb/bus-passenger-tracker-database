@@ -2,4 +2,4 @@
 
 ## Entity Relationship Diagram
 
-![image]('docs/bus-passenger-tracker-db-erd.jpg')
+![image](./bus-passenger-tracker-db-erd.jpg)
