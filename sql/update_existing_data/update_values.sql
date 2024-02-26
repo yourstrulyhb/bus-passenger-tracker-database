@@ -1,0 +1,3 @@
+-- UPDATE person
+-- SET vaccine_id = 1
+-- WHERE id = 1; 

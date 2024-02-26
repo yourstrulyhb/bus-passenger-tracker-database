@@ -17,10 +17,10 @@ Bus Passenger Tracker Database is a MySQL database designed for contact tracing 
 
 - [x] Create database
 
-  - [x]] Create tables for the database
+  - [x] Create tables for the database
   - [x] Set attributes and corresponding data types
 
-- [ ] Insert sample data into tables in the database
+- [x] Insert sample data into tables in the database
 
 - [ ] Create queries
 
