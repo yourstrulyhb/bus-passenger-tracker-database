@@ -2,11 +2,21 @@
 
 ### by yourstrulyhb
 
+<br>
+
 ## ✨ Description ✨
 
-Bus Passenger Tracker Database is a MySQL database designed for contact tracing of bus passengers. This is a revision of a database systems project, prompted by the need for a systematic process of tracking people potentially infected by COVID-19.
+Bus Passenger Tracker Database (BPTD) is a MySQL database designed for contact tracing of bus passengers. This is a revision of a database systems project, prompted by the need for a systematic process of tracking people potentially infected by COVID-19.
 
 <img src="docs/bus-passenger-tracker-database-schema-revision.png" style="display: block; margin: 0 auto; height: 500px;">
+
+<br>
+
+## ✨ Design documentation ✨
+
+BPTD Documentation: https://github.com/yourstrulyhb/bus-passenger-tracker-database/blob/master/bus-passenger-tracker-database-(revision).pdf
+
+<br>
 
 ## ✨ Tasks ✨
 
@@ -28,6 +38,8 @@ Bus Passenger Tracker Database is a MySQL database designed for contact tracing 
 > - Supplemental Learning
 > - [ ] Find ways to practice ALTER, UPDATE, PARTITION, PROCEDURE
 > - [ ] Create an INDEX, and STORED PROCEDURE
+
+<br>
 
 ## 🌠 Reproduce this database into your local machine! 🌠
 
