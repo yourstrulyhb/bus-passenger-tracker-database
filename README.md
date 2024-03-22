@@ -1,6 +1,6 @@
 # Bus Passenger Tracker Database
 
-### by Hannah Bella C. Arceño
+### by yourstrulyhb
 
 ## ✨ Description ✨
 
