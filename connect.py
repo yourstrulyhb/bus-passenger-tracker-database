@@ -1,3 +1,11 @@
+""" 
+A sample code on
+how to connect to the database
+via Python 
+
+by yourstrulyhb
+"""
+
 import os
 import mysql.connector  # pip install mysql-connector-python
 import pandas as pd 

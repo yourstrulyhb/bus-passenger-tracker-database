@@ -6,6 +6,6 @@
 
 ## Schema
 
-![image](./bus-passenger-tracker-database-schema.png)
+![image](./bus-passenger-tracker-database-schema-revision.png)
 
 [Schema viewable here: https://drawsql.app/teams/personal-1243/diagrams/bus-passenger-tracker-database](https://drawsql.app/teams/personal-1243/diagrams/bus-passenger-tracker-database)
